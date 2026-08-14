@@ -384,20 +384,4 @@ The final array does **not** need to be sorted.
 | `[{name:"Rafi"}]`                                                                                  | `Invalid`                  |
 | `[{name:"Rafi",score:"90"}]`                                                                       | `Invalid`                  |
 
----
 
-# Submission Checklist
-
-Before submitting, make sure:
-
-* [ ] Function names are unchanged.
-* [ ] Every function uses `return`.
-* [ ] No variables are declared globally.
-* [ ] All validation requirements are handled.
-* [ ] Hidden test cases are considered.
-* [ ] Exact output format is maintained.
-* [ ] No extra data is returned.
-* [ ] All five problems have been completed.
-
-```
-```
